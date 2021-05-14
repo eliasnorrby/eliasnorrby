@@ -37,8 +37,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliasnorrby&repo=dotfiles&theme=slateorange&hide_border=true" width=350>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliasnorrby&repo=notes&theme=slateorange&hide_border=true" width=350>
+  <a href="https://github.com/eliasnorrby/dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliasnorrby&repo=dotfiles&theme=slateorange&hide_border=true" width=350>
+  </a>
+  <a href="https://github.com/eliasnorrby/notes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliasnorrby&repo=notes&theme=slateorange&hide_border=true" width=350>
+  </a>
 </p>
 
 <!---
