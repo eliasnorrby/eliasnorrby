@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/eliasnorrby/eliasnorrby/master/waves.svg" width="100%" height="150">
+
 <h1 align="center">Hi 👋, I'm Elias</h1>
 
 <p align="center">I like building applications & automating chores.</p>
