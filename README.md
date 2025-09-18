@@ -17,9 +17,9 @@
   <code>argocd</code>
   <code>kafka</code>
   <code>ansible</code>
-  <code>maven</code>
+  <code>rust</code>
   <code>react</code>
-  <code>gatsby</code>
+  <code>nextjs</code>
   <code>typescript</code>
   <code>manjaro</code>
   <br>
@@ -28,15 +28,10 @@
   <code>sxhkd</code>
   <code>git</code>
   <code>alacritty</code>
+  <code>kitty</code>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasnorrby&show_icons=true&count_private=true&theme=slateorange&hide_border=true" width=400>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eliasnorrby&theme=slateorange&hide_border=true" width=400>
-</p>
-
 
 <p align="center">
   <a href="https://github.com/eliasnorrby/dotfiles">
@@ -47,8 +42,9 @@
   </a>
 </p>
 
-<!---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnorrby&theme=slateorange&layout=compact" width = 400>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasnorrby&show_icons=true&count_private=true&theme=slateorange&hide_border=true&rank_icon=github&hide_title=true" width=400>
 </p>
---->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnorrby&theme=slateorange&hide_border=true&hide_title=false" width=400>
+</p>
